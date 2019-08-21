@@ -9,7 +9,7 @@ package poo;
  *
  * @author Alumno jnsadhjnsa
  */
-public class Profesor {
+public class Profesor extends Persona{
     private String nombre;
     private int edad;
     private String materia;
